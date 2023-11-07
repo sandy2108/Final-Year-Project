@@ -1,6 +1,5 @@
 import { ChainId, ThirdwebProvider } from "@thirdweb-dev/react";
 import Head from "next/head";
-
 import { domainName } from "../const/yourDetails";
 import "../styles/globals.css";
 
@@ -19,7 +18,7 @@ function MyApp({ Component, pageProps }) {
       
     >
       <Head>
-        <title>BlackWolves</title>
+        <title>NFTSEEKER</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"

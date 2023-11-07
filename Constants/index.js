@@ -5,9 +5,6 @@ import sepolia from "../assets/medal.png";
 import testnet from "../assets/testnet.png";
 import search from "../assets/loupe.png";
 
-
-
-
 export const featuresLinks = [
   {
     image:sepolia,
